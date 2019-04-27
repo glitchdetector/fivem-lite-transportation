@@ -1,0 +1,6 @@
+cache/
+server_lite.cfg
+resources/hardcap/data/players/*.json
+resources/sessionmanager/admin/coords.txt
+resources/\[dependencies\]/
+resources/\[development\]/
