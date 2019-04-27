@@ -56,6 +56,9 @@ Your vehicle colors can be changed, both cab and trailer will share the color sc
 A settings menu is available, this lets you adjust the HUD, such as the Minimap Anchor (and everything that comes with it).
 It also allows game rules to be changed, such as the fuel system.
 
+### Loading Screen
+A simple but functional loading screen is included as well.
+
 ## Media
 ![](https://puu.sh/DkylV.jpg)
 _Roaming_
